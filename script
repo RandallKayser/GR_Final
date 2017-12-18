@@ -1,0 +1,13 @@
+python reissner.py 0.0 1.0e-4 0.0
+
+python reissner.py 2.94e5 1.0e-4 0.0
+echo 3
+python reissner.py 4.41e5 1.0e-4 0.0
+python reissner.py 5.88e5 1.0e-4 0.0
+python reissner.py 7.35e5 1.0e-4 0.0
+echo 6
+python reissner.py 8.82e5 1.0e-4 0.0
+python reissner.py 1.02e6 1.0e-4 0.0
+python reissner.py 1.17e6 1.0e-4 0.0
+echo 9
+python reissner.py 1.32e6 1.0e-4 0.0
